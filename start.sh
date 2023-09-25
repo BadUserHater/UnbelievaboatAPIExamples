@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "UNBELIEVABOAT API PYTHON EXAMPLE DISCORD BOT STARTING"
+python main.py
